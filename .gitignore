@@ -1,0 +1,4 @@
+.DS_Store
+*.exe
+/foo
+gaurav_secret_file.txt
