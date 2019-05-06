@@ -1,1 +1,3 @@
-this is the second file we have
+This is the second file we have.
+
+This file is midified now
